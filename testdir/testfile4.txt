@@ -1,2 +1,4 @@
 This is another testfile
 in a subdiretcory of a main git directory
+
+And now we extend the testfile a bit
