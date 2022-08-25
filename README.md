@@ -5,5 +5,5 @@
 Testing how a readme shoudl look like
 
 Openinng the testbranch branch
-
 Generating a second commit on test branch
+Trying out branch protection, should force me create a new branch. Try 2
