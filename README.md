@@ -4,4 +4,4 @@
 
 Testing how a readme shoudl look like
 
-Trying out branch protection, should force me create a new branch 
+Trying out branch protection, should force me create a new branch. Try 2
